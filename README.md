@@ -1,5 +1,11 @@
 # coming-soon
-A django project using the startbootstrap-coming-soon theme
+A django project using the [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) theme
+
+## Preview
+
+[![Coming Soon Preview](preview.png)](https://coming-soon.trevorwatson.info/)
+
+**[View Live Preview](https://coming-soon.trevorwatson.info/)**
 
 ## Deploy to PythonAnywhere
 
